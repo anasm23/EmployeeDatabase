@@ -12,7 +12,7 @@
 <img src="assets/employeedb.gif">
 
 ## Description
-Node command line application utelizing inquirer and mysql npm packages to update, view, and populate an employee database. 
+Node command line application utilizing inquirer and mysql npm packages to update, view, and populate an employee database. 
 Database was created with a SQL Schema then populated with a seed file. Created asynchronous inquirer prompt to view and add employee information, new departments and new roles. 
 
 
